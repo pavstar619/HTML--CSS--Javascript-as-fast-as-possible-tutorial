@@ -1,0 +1,12 @@
+body{
+    background-color:grey;
+    color:white;
+}
+h1{
+    color:orange;
+}
+
+.heroimg{
+    height:400px;
+    width:600px;
+}
